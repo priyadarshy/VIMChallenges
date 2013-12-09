@@ -1,14 +1,14 @@
 #!/bin/usr/python
 
 '''
-HelloWorldEditing.py
+HelloWorldFinal.py
 
 A first example at code that must be edited to match via VIM.
 
 '''
 
-def a_quick_greeting(some_arguments):
-    print 'Hi Mom!!'
+def a_nice_function(that_takes_args):
+    print 'Hiiii Mom!'
 
 if __name__ == '__main__':
-    a_quick_greeting(None)
+    a_nice_function(None)
